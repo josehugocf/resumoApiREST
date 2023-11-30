@@ -68,3 +68,7 @@ Os códigos de status HTTP são indicadores numéricos fornecidos em respostas d
 - **500 Internal Server Error:** Indica um erro interno no servidor.
 
 Estes são apenas alguns exemplos; os códigos de status fornecem informações valiosas sobre o resultado de uma solicitação e são essenciais para a compreensão e tratamento apropriado das respostas das APIs web.
+
+  ---
+
+    Autor do resumo: José Hugo - 01512676
